@@ -1,2 +1,2 @@
 # controle-gastos-viagem
-App para controlar gastos de viagem em diversas moedas
+App para controlar gastos de viagem em diversas moedas, convertendo-os para Real
