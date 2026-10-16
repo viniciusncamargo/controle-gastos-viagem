@@ -5,10 +5,12 @@ labels: enhancement
 ---
 
 ## História de usuário
+
 Como viajante, quero ... para ...
 
 ## Critérios de aceite
-- [ ] 
-- [ ] 
+
+- [ ]
+- [ ]
 
 ## Observações

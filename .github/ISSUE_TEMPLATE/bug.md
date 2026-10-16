@@ -9,7 +9,8 @@ labels: bug
 ## O que era esperado
 
 ## Como reproduzir
-1. 
-2. 
+
+1.
+2.
 
 ## Prints ou mensagens de erro
